@@ -6,4 +6,6 @@
 
 ## Módulo 3: Estatística
 
-## Módulo 4: Álgebra Linear
+## Módulo 4: Python - Noções Introdutórias
+
+## Módulo 5: Álgebra Linear
