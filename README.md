@@ -6,4 +6,4 @@
 
 ## Módulo 3: Estatística
 
-## Módulo 4: hghfg
+## Módulo 4: Álgebra Linear
